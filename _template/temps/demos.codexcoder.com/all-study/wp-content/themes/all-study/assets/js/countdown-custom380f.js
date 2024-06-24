@@ -1,0 +1,1 @@
+!function(t){"use strict";var n=jQuery("#countdown"),e=n.data("event-date")+" "+n.data("event-time");t("#countdown").length&&t("#countdown").countdown({date:e,offset:2,day:"Day",days:"Days"},function(){alert("The Event Has Finish!")})}(jQuery);

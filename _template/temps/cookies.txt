@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demos.codexcoder.com	TRUE	/all-study/	FALSE	1999999999	lp_session_guest	g-666d8b65252c0
+demos.codexcoder.com	TRUE	/all-study/	FALSE	1999999999	woocommerce_items_in_cart	1
+demos.codexcoder.com	TRUE	/all-study/	FALSE	1999999999	wp_woocommerce_session_727108e4cf0bf6e7f523563cf27dbe09	t_6905b682f31c171b5f179b587f6e81%7C%7C1718628135%7C%7C1718624535%7C%7C18c30f1cda27c4c3dd3ddc291049767c
+demos.codexcoder.com	TRUE	/all-study/	FALSE	1999999999	woocommerce_cart_hash	8c7ca6d25a3c525c7583c88f5e3bb1c7
+demos.codexcoder.com	TRUE	/	FALSE	1999999999	PHPSESSID	4db9d0b28cbdd16ab40dfdc64ca4770b
+

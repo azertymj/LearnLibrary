@@ -1,0 +1,1 @@
+!function(t){"use strict";var e=0;t(document).scroll(function(){t(".teacher-skills").height()-t(window).scrollTop()<-0&&(0==e&&t(".chart").easyPieChart({animate:2e3,barColor:"#ffb400",lineWidth:8,size:100,onStep:function(e,i,n){t(this.el).find(".percent").text(Math.round(n))}}),e++)})}(jQuery);
